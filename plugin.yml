@@ -1,0 +1,6 @@
+name: NLOGCustomMessage
+author: ANDLOG
+version: 1.0
+main: NLOGCustomMessage\Main
+api:
+- 3.0.0-ALPHA7
